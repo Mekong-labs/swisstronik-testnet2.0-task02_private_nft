@@ -1,0 +1,1 @@
+# swisstronik-testnet2.0-task02_private_nft
